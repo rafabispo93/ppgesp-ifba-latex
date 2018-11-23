@@ -7,7 +7,7 @@ Este pacote é destinado à escrita de trabalhos de conclusão de curso, documen
 Este pacote tem como base o pacote 
 * [UFPEThesis](http://www.cin.ufpe.br/~paguso/ufpethesis/), criado por Paulo G. S. da Fonseca.
 * [PGCOMP-UFBA](https://github.com/PGCOMP-UFBA/pgcomp-ufba-latex), modificado para o DMCC por Alírio Sá e Antonio Terceiro em 2010. Adaptado para o PGCOMP por Christina von Flach em 2014. Modificado por Alcemir Santos em 2016.
-O template foi portado para o [PPGESP-IFBA-latex](https://github.com/gsort/ppgesp-ifba-latex.git) por Luis Gustavo Cardoso Lima em 2018.
+* O template foi portado para o [PPGESP-IFBA-latex](https://github.com/gsort/ppgesp-ifba-latex.git) por Luis Gustavo Cardoso Lima em 2018.
 
 ## Como usar
 
